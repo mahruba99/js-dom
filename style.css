@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 900px;
+    background-color: aquamarine;
+    margin: 0 auto;
+}
+.blog-1{
+    width: 32.33%;
+    
+    
+
+}
+.blog-2{
+    width: 32.33%;
+    
+
+}
+.blog-3{
+    width: 32.33%;
+
+}
+.main-section{
+    display: flex;
+}
+
+
+#blog-list{
+    display: flex;
+    list-style: none;
+}
+.our-blog {
+    margin-left: 81px;
+}
